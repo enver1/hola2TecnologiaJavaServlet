@@ -1,0 +1,8 @@
+En un navegador web, abra la siguiente URL:
+
+http://localhost:8080/hello2/greeting
+La URL especifica la raíz de contexto, seguida del patrón de URL.
+
+La aplicación se parece mucho a la hello1aplicación. 
+La principal diferencia es que después de hacer clic en Enviar, la respuesta aparece debajo del saludo, 
+no en una página separada.
